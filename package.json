@@ -61,6 +61,6 @@
     "eslint-plugin-standard": "^4.0.1",
     "husky": "^4.2.5",
     "standard": "^14.3.3",
-    "standard-version": "^7.1.0"
+    "standard-version": "^8.0.1"
   }
 }
