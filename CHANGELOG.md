@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.12](https://github.com/hendri1/react-boilerplate/compare/v0.1.11...v0.1.12) (2020-09-24)
+
+
+### Features
+
+* add npmrc ([7593fd0](https://github.com/hendri1/react-boilerplate/commit/7593fd0277eb0cfa5b11007e2fe2f73d68f36ef5))
+* add release:version ([606eec0](https://github.com/hendri1/react-boilerplate/commit/606eec04e357f82669749381d58d1aa1db37508a))
+
 ### [0.1.11](https://github.com/hendri1/react-boilerplate/compare/v0.1.8...v0.1.11) (2020-09-24)
 
 
