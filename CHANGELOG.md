@@ -2,19 +2,6 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [0.1.7](https://github.com/hendri1/react-boilerplate/compare/v0.1.6...v0.1.7) (2020-09-24)
-
-### [0.1.6](https://github.com/hendri1/react-boilerplate/compare/v0.1.5...v0.1.6) (2020-09-24)
-
-### [0.1.5](https://github.com/hendri1/react-boilerplate/compare/v0.1.4...v0.1.5) (2020-09-24)
-
-### [0.1.4](https://github.com/hendri1/react-boilerplate/compare/v0.1.3...v0.1.4) (2020-09-24)
-
-
-### Documentation
-
-* bump version to 0.1.3 ([0195306](https://github.com/hendri1/react-boilerplate/commit/0195306bdc40f03b81a3c1fad86c9e30c89d84da))
-
 ### [0.1.3](https://github.com/hendri1/react-boilerplate/compare/v0.1.2...v0.1.3) (2020-06-11)
 
 
