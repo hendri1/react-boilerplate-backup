@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.11](https://github.com/hendri1/react-boilerplate/compare/v0.1.8...v0.1.11) (2020-09-24)
+
+
+### Features
+
+* add commitizen plugin ([f5fb00d](https://github.com/hendri1/react-boilerplate/commit/f5fb00df5ff3f66f4cfe45ff2b0a1d84eeab41a6))
+
+### [0.1.10](https://github.com/hendri1/react-boilerplate/compare/v0.1.8...v0.1.10) (2020-09-24)
+
+
+### Features
+
+* add commitizen plugin ([f5fb00d](https://github.com/hendri1/react-boilerplate/commit/f5fb00df5ff3f66f4cfe45ff2b0a1d84eeab41a6))
+
+### [0.1.9](https://github.com/hendri1/react-boilerplate/compare/v0.1.8...v0.1.9) (2020-09-24)
+
+
+### Features
+
+* add commitizen plugin ([f5fb00d](https://github.com/hendri1/react-boilerplate/commit/f5fb00df5ff3f66f4cfe45ff2b0a1d84eeab41a6))
+
 ### [0.1.8](https://github.com/hendri1/react-boilerplate/compare/v0.1.7...v0.1.8) (2020-09-24)
 
 
