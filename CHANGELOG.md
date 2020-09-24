@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/hendri1/react-boilerplate/compare/v0.1.7...v0.1.4) (2020-09-24)
+
+
+### Bug Fixes
+
+* yarn.lock ([91f431e](https://github.com/hendri1/react-boilerplate/commit/91f431edb75979de7d47fb4b51aa57258888e91c))
+
 ### [0.1.3](https://github.com/hendri1/react-boilerplate/compare/v0.1.2...v0.1.3) (2020-06-11)
 
 
