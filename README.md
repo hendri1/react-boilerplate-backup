@@ -15,7 +15,7 @@
 
 ### Changelog
 
-Detailed changes for each release are documented in the [release notes](https://github.com/hendri1/react-boilerplate/releases) and [changelog](changelog.md).
+Detailed changes for each release are documented in the [release notes](https://github.com/hendri1/react-boilerplate/releases) and [changelog](CHANGELOG.md).
 
 ### Guides
 * [Contribution](docs/contribution.md)
